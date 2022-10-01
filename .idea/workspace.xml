@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="738e1926-a39a-4837-8e3c-4f3f7e93eb14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework.iml" afterDir="false" />
+    <list default="true" id="738e1926-a39a-4837-8e3c-4f3f7e93eb14" name="Changes" comment="finished 2 homework2">
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Task3.java" afterDir="false" />
@@ -71,5 +68,9 @@
       <updated>1664034114652</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished 2 homework2" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished 2 homework2" />
   </component>
 </project>
