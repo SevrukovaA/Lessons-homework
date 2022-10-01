@@ -1,6 +1,15 @@
+package Lesson4;
+
 import java.util.Scanner;
 
-public class Main {
+/**
+ * есть форум, у которого есть комментарии с оценками.
+ * Нам нужно заменить наихудшую оценку на среднее арифметическое всех других оценок,
+ * если разница минимальной оценки и второй по минимальности 3 и более.
+ * (Оценки могут быть от 0 до 10)
+ */
+
+public class Task2 {
     public static void main(String[] args) {
 
         System.out.println("Number of students:  ");
@@ -19,7 +28,7 @@ public class Main {
             int tempDays = (int) ((Math.random() * (10 + 1)));
             grade[i] = tempDays;
 
-            System.out.print(grade[i]);
+            System.out.print(grade[i]); //вивод заполненного массива
             System.out.print(" ;");
         }
 
@@ -74,6 +83,4 @@ public class Main {
         return array;
     }
 }
-
-
 
