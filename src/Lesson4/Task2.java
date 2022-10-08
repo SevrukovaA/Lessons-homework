@@ -35,8 +35,8 @@ public class Task2 {
         System.out.println();
 
         // вывод отсортированного массива
-        int[] sortGrade = bubbleSort(grade);
-        for (int j : sortGrade) {
+         bubbleSort(grade);
+        for (int j : grade) {
 
             System.out.print(j);
             System.out.print(" ;");
@@ -45,14 +45,14 @@ public class Task2 {
         System.out.println();
 
         //Проверка на наличие отставания минимального значения
-        if (sortGrade[1] > sortGrade[0] + 3) {
-            for (int a = 1; a < sortGrade.length; a++) {
-                sum += sortGrade[a];
+        if (grade[1] > grade[0] + 3) {
+            for (int a = 1; a < grade.length; a++) {
+                sum += grade[a];
             }
-            sortGrade[0] = sum / (sortGrade.length - 1);
+            grade[0] = sum / (grade.length - 1);
 
             //вивод массива с заменой минимального значения
-            for (int i : sortGrade) {
+            for (int i : grade) {
 
                 System.out.print(i);
                 System.out.print(" ;");
