@@ -19,8 +19,6 @@ public class Square extends Shape implements Color {
     }
 
 
-
-
     public double getPerimeter(int a) {
         return 2 * (2 * a);
     }

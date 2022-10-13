@@ -5,6 +5,7 @@ import java.util.Objects;
 public abstract class Shape {
 
     private String name;
+    private int plane;
 
     public int getPlane() {
         return plane;
@@ -18,8 +19,6 @@ public abstract class Shape {
         this.name = name;
         this.plane = plane;
     }
-
-    private int plane;
 
 
     public String getName() {
