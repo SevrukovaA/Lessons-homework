@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="738e1926-a39a-4837-8e3c-4f3f7e93eb14" name="Changes" comment="finished 2 homework2">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+    <list default="true" id="738e1926-a39a-4837-8e3c-4f3f7e93eb14" name="Changes" comment="last changes">
       <change afterPath="$PROJECT_DIR$/src/Lesson4/Task1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Lesson4/Task2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework/Lesson2/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework/Lesson2/Task1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework/Lesson4/Task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework/Lesson4/Task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/Lesson6/ShapeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework/Lesson6/ShapeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/META-INF/Homework.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework/META-INF/Homework.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Task3.java" afterDir="false" />
@@ -27,9 +24,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Kotlin File" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -127,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.KotlinKt" />
+    <configuration name="Task1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson7Kotlin.Task1Kt" />
       <module name="Homework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,10 +134,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.ShapeDemo" />
+        <item itemvalue="Kotlin.Task1Kt" />
         <item itemvalue="Application.AbsShape" />
         <item itemvalue="Application.AЬsShape" />
         <item itemvalue="Application.Unnamed" />
-        <item itemvalue="Kotlin.KotlinKt" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished 2 homework2" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished 2 homework2" />
+    <MESSAGE value="last changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="last changes" />
   </component>
 </project>
