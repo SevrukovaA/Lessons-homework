@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Task2 {
     public static void main(String[] args) {
 
-        System.out.print("Please enter the date in the format DD.MM.YYYY: \n");
+        System.out.print("Please enter the date in the format DD.Month.YYYY: \n");
         Scanner inp = new Scanner(System.in);
         String str = inp.nextLine();
         String[] arr;
