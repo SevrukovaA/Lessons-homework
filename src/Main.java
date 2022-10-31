@@ -1,16 +1,8 @@
-import Lesson6.Square;
 
-import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        // String str = sc.nextLine();
-        //System.out.println(str.equalsIgnoreCase(new StringBuffer(str).reverse().toString())); // true ahd false
-        String str2 = sc.nextLine();
-        System.out.println(str2.replaceAll("a", "***"));
-
-    }
 
 }
+
+
 

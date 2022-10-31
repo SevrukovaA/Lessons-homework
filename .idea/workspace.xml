@@ -10,8 +10,7 @@
       <change afterPath="$PROJECT_DIR$/src/Lesson7Kotlin/Task1.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework/Lesson7Kotlin/Task1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework/Lesson7Kotlin/Task1Kt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Homework/META-INF/Homework.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework/META-INF/Homework.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Homework/Lesson7Kotlin/Task2Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework/Lesson7Kotlin/Task2Kt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Homework/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Homework/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson2/Task2.java" afterDir="false" />
@@ -27,8 +26,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -92,10 +91,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Task2Kt">
-    <configuration name="AbsShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AbsShape" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Lesson9.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.Task2" />
       <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson6.ShapeDemo" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson9.Task1" />
       <module name="Homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson6.*" />
+          <option name="PATTERN" value="Lesson9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,9 +125,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson7Kotlin.Task1Kt" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Task2" />
       <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Task2Kt" />
-        <item itemvalue="Kotlin.Task1Kt" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ShapeDemo" />
-        <item itemvalue="Application.AbsShape" />
+        <item itemvalue="Application.Lesson9.Task2" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Kotlin.Task2Kt" />
       </list>
     </recent_temporary>
   </component>
